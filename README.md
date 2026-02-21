@@ -1,62 +1,132 @@
-# Hello World!
-## const welcome = {
-- : Seja bem-vindo(a) ao meu GitHub
-- : Fique a vontade para entrar em contato, os links estão no rodapé 📌 
+# 👋 Hello, I'm Tarcisio Wesley (タルシシオ　ウエズレイ)
 
-}
+### Software Engineer | Mobile & Full Stack Developer
 
-## ⚙ const algumasExperiencias = {
+Software Engineer with 5+ years of professional experience in mobile and web application development.  
+Experienced in leading development teams, designing scalable architectures, and delivering stable systems aligned with business requirements.
 
-- : Atualmente trabalho na empresa GAFIT soluções como desenvolvedor fullstack web/mobile (React Native e Laravel como principais tecs),
-- : Trabalhei na empresa Arben do Brasil como supervisor operacional de manutenção e instalação de ar condicionado,
-- : Antes da pandemia dava aulas de Forró também ( agora to so na vontade 😅),
-- : Tenho bastante experiência na area de TI, trabalhei no RJ no projeto 3G da Claro/Embratel (Softmig Software e Telecomunicações)  e também dando manutenção em PCs domesticos,
+I value long-term maintainability, code quality, and strong collaboration within cross-functional teams.
 
-}
+---
 
-## ❗ const algumasCuriosidades = {
+## 📌 Professional Summary
 
-- : Ja fui desenhista, tive banda de rock 🤘 , toquei violoncello na igreja (nada a ver ne rs),
-- : Gosto de praticar atividades fisicas, meu esporte predileto é Baseball ( sim, eu ja joguei e nao, eu nao gosto de futebol),
-- : Prefiro salgados do que doces, qualquer massa,
-- : Não gosto tanto de filmes mas curto series e animes,
-- : Adoro jogos de tabuleiro e jogos Coop online,
+- 5+ years of experience in Web and Mobile development
+- Tech Lead experience in Agile/Scrum environments
+- Specialized in React Native mobile architecture
+- Experience with financial systems and high-traffic event platforms
+- Strong focus on Clean Code and system stability
+- Open to long-term opportunities in Japan
 
-}
+---
 
-## 🧱 const incieiProgramacao = {
+## 🛠 Technical Skills
 
-- : No inicio de 2021 eu recebi o convite ( pela segunda vez =P) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o convite e começar uma nova página na minha vida profissional, estou fazendo essa transição de carreira neste momento,
-- : Comecei o curso Programação do zero na Cubos Academy e estou gostando demais de cada conteúdo novo apresentado, que por sinal tudo ta sendo novo pra mim =],
-- : Meus estudos ainda estão em progresso, e apesar do regime de home office mas espero poder fazer muitas conexões e contribuir bastante nessa comunidade incrivel de tecnologia,
-- : LEZZGOUU!!!,
+### Programming Languages
+- JavaScript (5 years)
+- TypeScript (4 years)
+- PHP 8 (3 years)
 
-}
+### Frontend & Mobile
+- React Native (5 years)
+- React.js (5 years)
+- jQuery (3 years)
 
-## 📚 const sempreMelhorando = {
-
-- ![English](https://img.shields.io/badge/-English-ff69b4),
-- ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue),
-- ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red),
-- ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange),
-- ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen),
-- ![Typescript](https://img.shields.io/badge/-TypeScript-FFB27F),
-- ![React](https://img.shields.io/badge/-React-B200FF),
-- ![ES6](https://img.shields.io/badge/-ES6-FF6A00),
-- ![Context](https://img.shields.io/badge/-Context-5BD6FF),
-- ![Nextjs](https://img.shields.io/badge/-Nextjs-FF91E7),
-- ![SQL](https://img.shields.io/badge/-SQL-FF5154),
-- ![PG](https://img.shields.io/badge/-PG-FFBB7F),
-- ![Auth](https://img.shields.io/badge/-Auth-FF000C),
-- ![Encryption](https://img.shields.io/badge/-Encryption-ffffff),
-- ![redux](https://img.shields.io/badge/-Redux-5BD6FF),
-- ![ReactNative](https://img.shields.io/badge/-ReactNative-B200FF),
-- ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=orange),
-}
-
-console.log( [![Linkedin Badge](https://img.shields.io/badge/-Tarcisio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-wesley//)](https://www.linkedin.com/in/tarcisio-wesley/) ,
-[![Gmail Badge](https://img.shields.io/badge/-tarcisiowesley@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisiowesley@gmail.com)](mailto:tarcisiowesley@gmail.com) ,
-[![YouTube Badge](https://img.shields.io/badge/-Tarcisio-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/TarcisioWesley//)](https://www.youtube.com/c/TarcisioWesley/) )
+### Backend
+- Laravel (3 years)
+- Node.js
 
 
+### Databases
+- PostgreSQL
+- MySQL
 
+### Tools & Environment
+- Git Flow
+- Docker
+- Vagrant
+- Jira / Confluence
+- Jest
+- Linters
+- Salesforce Mobile SDK
+
+### Development Practices
+- Agile (Scrum)
+- MVC Architecture
+- Clean Code
+- Offline-First System Design
+- Code Review & Mentoring
+
+---
+
+## 💼 Work Experience
+
+### Mobile / Salesforce Developer  
+**SR Consulting (Remote)**  
+July 2024 – August 2025
+
+- Acted as Tech Lead for the mobile development team.
+- Led client requirement discussions and translated business needs into technical solutions.
+- Designed and implemented a React Native architecture integrated with Salesforce Mobile SDK.
+- Developed offline-first functionality with automatic synchronization.
+- Managed controlled release cycles and ensured delivery stability.
+- Maintained high code quality through structured reviews.
+
+---
+
+### Full Stack Developer  
+**GAFIT Soluções (Brazil)**  
+November 2021 – July 2024
+
+- Led end-to-end development of the TAMBASA Financeira mobile application.
+- Promoted to Mobile Team Lead for the official app of Estádio do Mineirão.
+- Implemented complex financial rules, payment systems, and reporting.
+- Integrated third-party services including banking and payment APIs.
+- Managed backend data structure and performance optimization.
+- Collaborated closely with clients to ensure requirement alignment.
+
+---
+
+## 🎓 Education
+
+Bachelor's Degree in Mobile Development  
+Ampli Anhanguera  
+2023 – 2026 (Expected)
+
+---
+
+## 📜 Certifications
+
+- Programming from Scratch (Cubos Academy, 2021)
+- English for Developers (RocketSeat, 2024)
+
+---
+
+## 🌏 Languages
+
+- Portuguese: Native
+- English: Advanced
+- Japanese: Begginer (Currently Studying using Genki and minna no nihongo, aiming for N4 in the second half/26 )
+
+---
+
+## 🔎 Professional Interests
+
+- Scalable Mobile Architecture
+- System Stability & Long-Term Maintainability
+- Financial Technology Systems
+- Cross-cultural Team Collaboration
+- Continuous Technical Improvement
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/tarcisiowes
+- LinkedIn: tarcisio-wesley
+
+---
+
+### Commitment
+
+I am seeking opportunities where I can contribute long-term, continue improving my english and Japanese language skills, and help build reliable systems that provide real value to users and organizations.
