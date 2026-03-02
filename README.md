@@ -11,7 +11,7 @@ I value long-term maintainability, code quality, and strong collaboration within
 
 ## 📌 Professional Summary
 
-- 5+ years of experience in Web and Mobile development
+- 4+ years of experience in Web and Mobile development
 - Tech Lead experience in Agile/Scrum environments
 - Specialized in React Native mobile architecture
 - Experience with financial systems and high-traffic event platforms
@@ -23,14 +23,13 @@ I value long-term maintainability, code quality, and strong collaboration within
 ## 🛠 Technical Skills
 
 ### Programming Languages
-- JavaScript (5 years)
-- TypeScript (4 years)
-- PHP 8 (3 years)
+- JavaScript (4 years)
+- TypeScript 
 
 ### Frontend & Mobile
-- React Native (5 years)
-- React.js (5 years)
-- jQuery (3 years)
+- React Native (4 years)
+- React.js 
+- jQuery 
 
 ### Backend
 - Laravel (3 years)
