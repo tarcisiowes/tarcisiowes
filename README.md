@@ -2,7 +2,7 @@
 
 ### Software Engineer | Mobile & Full Stack Developer
 
-Software Engineer with 5+ years of professional experience in mobile and web application development.  
+Software Engineer with 4+ years of professional experience in mobile and web application development.  
 Experienced in leading development teams, designing scalable architectures, and delivering stable systems aligned with business requirements.
 
 I value long-term maintainability, code quality, and strong collaboration within cross-functional teams.
