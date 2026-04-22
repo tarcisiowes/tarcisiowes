@@ -1,131 +1,102 @@
-# 👋 Hello, I'm Tarcisio Wesley (タルシシオ　ウエズレイ)
+# Tarcisio Wesley 
+タルシシオ　ウエズレイ
 
-### Software Engineer | Mobile & Full Stack Developer
+**Mobile & Full Stack Developer**  
+Tokyo, Japan  
+[LinkedIn](https://linkedin.com/in/tarcisio-wesley) · tarcisiowesley@gmail.com
 
-Software Engineer with 4+ years of professional experience in mobile and web application development.  
-Experienced in leading development teams, designing scalable architectures, and delivering stable systems aligned with business requirements.
+## About
 
-I value long-term maintainability, code quality, and strong collaboration within cross-functional teams.
+Mobile-focused Full Stack Developer with 4+ years of experience building production applications across React Native, Expo, React.js, Laravel, and Node.js.
 
----
+My background combines product delivery, technical ownership, and practical architecture work — from offline-first mobile systems and API integrations to frontend implementation, backend structure, and release workflows. I have led small development teams, worked directly with clients, and shipped software used in financial, retail, and stadium/event environments.
 
-## 📌 Professional Summary
+I am currently based in Tokyo and building independent products focused on mobile UX, learning systems, and music-driven interactions.
 
-- 4+ years of experience in Web and Mobile development
-- Tech Lead experience in Agile/Scrum environments
-- Specialized in React Native mobile architecture
-- Experience with financial systems and high-traffic event platforms
-- Strong focus on Clean Code and system stability
-- Open to long-term opportunities in Japan
+## Current Focus
 
----
+- React Native and Expo application architecture
+- Offline-first mobile flows and sync strategies
+- Product-oriented mobile development with strong UX attention
+- Full stack implementation for mobile products
+- Long-term opportunities in Japan
 
-## 🛠 Technical Skills
+## Core Stack
 
-### Programming Languages
-- JavaScript (4 years)
-- TypeScript 
+**Mobile:** React Native, Expo, Expo Router, Salesforce Mobile SDK, iOS & Android delivery  
+**Frontend:** React.js, TypeScript, JavaScript, jQuery  
+**Backend & Data:** Node.js, Laravel / PHP, PostgreSQL, MySQL, SQLite, Drizzle ORM, Supabase  
+**Tooling:** GitHub Actions, Storybook, Jest, ESLint, Docker, Vagrant, Git Flow, Jira, Scrum / Agile  
+**Integrations:** Salesforce Mobile SDK, RevenueCat, Itaú, Mercado Pago, Movidesk
 
-### Frontend & Mobile
-- React Native (4 years)
-- React.js 
-- jQuery 
+## Professional Experience
 
-### Backend
-- Laravel (3 years)
-- Node.js
+### SR Consulting — Mobile & Salesforce Developer / Tech Lead
+**Jul 2024 – Aug 2025 · Remote**
 
+- Owned the mobile architecture of a React Native app integrated with Salesforce Mobile SDK
+- Designed offline-first data sync and release workflows
+- Led technical scope definition, reviews, delivery, and mentoring
+- Worked directly with clients to translate business requirements into technical solutions
 
-### Databases
-- PostgreSQL
-- MySQL
+### GAFIT Soluções — Full Stack Developer → Mobile Team Lead
+**Nov 2021 – Jul 2024 · Brazil**
 
-### Tools & Environment
-- Git Flow
-- Docker
-- Vagrant
-- Jira / Confluence
-- Jest
-- Linters
-- Salesforce Mobile SDK
+- Led end-to-end development of the TAMBASA Financeira mobile app
+- Became Mobile Team Lead on the official Estádio do Mineirão app project
+- Worked across mobile, backend, APIs, reporting flows, and database structure
+- Integrated services such as Itaú, Mercado Pago, and Movidesk
 
-### Development Practices
-- Agile (Scrum)
-- MVC Architecture
-- Clean Code
-- Offline-First System Design
-- Code Review & Mentoring
+## Selected Personal Projects
 
----
+### falaGENKI
+**Mobile-first Japanese learning app for Brazilian Portuguese speakers**  
+Tech: React Native, Expo, TypeScript, Expo Router, SQLite, Drizzle ORM, Supabase, RevenueCat
 
-## 💼 Work Experience
+Current repository state:
+- Beyond bootstrap stage, with a structured routed app shell and shared providers
+- Local-first learning loop already implemented: onboarding, lessons, review flow, streak/XP, Home, and Profile
+- City Pop learning mode with local playback, lyric interactions, and save-to-review flow
+- Deck ecosystem with manual decks, `.apkg` import/export, optional card images, and premium/paywall groundwork
+- Anonymous-first auth plus early Supabase sync for study-plan backup/restore
+- Storybook workspace, CI validation, and active runtime QA/documentation workflow
 
-### Mobile / Salesforce Developer  
-**SR Consulting (Remote)**  
-July 2024 – August 2025
+Project direction:
+- Build a differentiated Japanese learning product that combines PT-BR explanations, mobile-first study flows, SRS review, and music-based engagement loops
 
-- Acted as Tech Lead for the mobile development team.
-- Led client requirement discussions and translated business needs into technical solutions.
-- Designed and implemented a React Native architecture integrated with Salesforce Mobile SDK.
-- Developed offline-first functionality with automatic synchronization.
-- Managed controlled release cycles and ensured delivery stability.
-- Maintained high code quality through structured reviews.
+### GenkiSound
+**Experimental mobile music product focused on mood-based playback and music-learning interactions**  
+Tech: React Native CLI, TypeScript, native audio integration, Supabase, streaming/service integrations
 
----
+Current repository state:
+- Active MVP with mood-based playback controls and safe tempo/pitch modulation direction
+- Music Learning flow expanded into a lyrics-first player with line cards and per-song deck saves
+- Guest-first review/account architecture added with local-first persistence and Supabase sync groundwork
+- Feedback/report flow implemented inside the app shell
+- Ongoing work around native audio, playback UX, and music-learning interaction design
+- Automated tests, lint/typecheck coverage, and detailed progress tracking in the repository
 
-### Full Stack Developer  
-**GAFIT Soluções (Brazil)**  
-November 2021 – July 2024
+## GitHub Notes
 
-- Led end-to-end development of the TAMBASA Financeira mobile application.
-- Promoted to Mobile Team Lead for the official app of Estádio do Mineirão.
-- Implemented complex financial rules, payment systems, and reporting.
-- Integrated third-party services including banking and payment APIs.
-- Managed backend data structure and performance optimization.
-- Collaborated closely with clients to ensure requirement alignment.
+Most of my recent public GitHub activity is concentrated in personal products and architecture/workflow documentation.
 
----
+A large portion of my professional work was delivered in private client repositories, so the public profile reflects:
+- product architecture decisions
+- implementation progress
+- testing and validation discipline
+- long-term project evolution
 
-## 🎓 Education
+## Education
 
-Bachelor's Degree in Mobile Development  
-Ampli Anhanguera  
-2023 – 2026 (Expected)
+**B.Sc. in Mobile Development**  
+Ampli Anhanguera · 2023 – 2026 (expected)
 
----
+## Languages
 
-## 📜 Certifications
+- Portuguese — Native
+- English — Advanced
+- Japanese — N5 level in progress
 
-- Programming from Scratch (Cubos Academy, 2021)
-- English for Developers (RocketSeat, 2024)
+## Availability
 
----
-
-## 🌏 Languages
-
-- Portuguese: Native
-- English: Advanced
-- Japanese: Begginer (Currently Studying using Genki and minna no nihongo, aiming for N4 in the second half/26 )
-
----
-
-## 🔎 Professional Interests
-
-- Scalable Mobile Architecture
-- System Stability & Long-Term Maintainability
-- Financial Technology Systems
-- Cross-cultural Team Collaboration
-- Continuous Technical Improvement
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/tarcisiowes
-- LinkedIn: tarcisio-wesley
-
----
-
-### Commitment
-
-I am seeking opportunities where I can contribute long-term, continue improving my english and Japanese language skills, and help build reliable systems that provide real value to users and organizations.
+Based in Tokyo, Japan. Open to long-term mobile or full stack opportunities. No sponsorship required.
